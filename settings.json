@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "BEAST",
+    "username": "J.A.R.V.I.S",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "The-Beast-SMP.aternos.me",
-    "port": 30877,
+    "ip": "thebeastduniya.aternos.me",
+    "port": 40520,
     "version": "1.12.1"
   },
   
@@ -30,7 +30,7 @@
     },
 
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 240,
 
