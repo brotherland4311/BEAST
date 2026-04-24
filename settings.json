@@ -1,0 +1,48 @@
+{
+  "bot-account": {
+    "username": "BEAST",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "The-Beast-SMP.aternos.me",
+    "port": 30877,
+    "version": "1.12.1"
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": -110,
+    "y": 67,
+    "z": -26
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 240,
+
+      "messages": [
+        "Womens are The Angels",
+        "Mens are The Beasts",
+        "If you need me then just call me"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 1000
+  }
+}
